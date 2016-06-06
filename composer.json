@@ -1,0 +1,15 @@
+{
+    "name": "compwright/eml2csv",
+    "description": "Reads .eml files from a directory and extracts contact data to CSV",
+    "type": "project",
+    "require": {
+        "zetacomponents/mail": "^1.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathon Hill",
+            "email": "jhill9693@gmail.com"
+        }
+    ]
+}
